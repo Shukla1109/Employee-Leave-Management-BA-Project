@@ -15,20 +15,32 @@ The system aims to eliminate the current manual leave tracking process (emails &
 
 # Business Objectives
 
-✔ Automate leave request & approval workflow
-✔ Reduce manual HR workload and errors
-✔ Provide real-time leave balance visibility
-✔ Improve compliance through audit trails
-✔ Enable accurate monthly attendance reports for payroll
+Automate leave request & approval workflow
+
+Reduce manual HR workload and errors
+
+Provide real-time leave balance visibility
+
+Improve compliance through audit trails
+
+Enable accurate monthly attendance reports for payroll
 
 # Deliverables Included in this Repository
+
 Document	Description
+
 01_BRD.pdf	Business Requirements Document
+
 02_UserStories.pdf	15 User Stories with Acceptance Criteria
+
 03_BPMN_AsIs.pdf	AS-IS manual leave process
+
 04_BPMN_ToBe.pdf	TO-BE automated workflow
+
 05_MoSCoW.pdf	Prioritization of requirements using MoSCoW framework
+
 06_UAT_TestCases.pdf	10+ UAT scenarios mapped to User Stories
+
 07_Sprint_Backlog.pdf	3-Sprint Agile delivery plan
 
 # High-Level Workflow
@@ -61,8 +73,13 @@ Faster workflows, 60% less HR effort, full visibility
 
 # Tools & Techniques Demonstrated
 Area	Techniques Used
+
 Business Analysis	BRD, Requirement Gathering, Stakeholder Mapping
+
 Process Modeling	BPMN, As-Is & To-Be Flow Design
+
 Prioritization	MoSCoW Framework
+
 Agile	Sprint Backlog, User Stories
+
 Testing	UAT Scenarios & Acceptance Criteria
